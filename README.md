@@ -4,6 +4,6 @@ untuk disable klik kanan
 
 -disable key keyboard
 
--CTRL + SHIFT + I
--CTRL + SHIFT + C
--CTRL + SHIFT + J
+# -CTRL + SHIFT + I
+# -CTRL + SHIFT + C
+# -CTRL + SHIFT + J
